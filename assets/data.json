@@ -1,0 +1,52 @@
+[
+    {
+      "id": 1,
+      "title": "Neuschwanstein Castle",
+      "author": "Mathias Konrath",
+      "uri":
+        "https://images.unsplash.com/photo-1485465053475-dd55ed3894b9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80",
+      "price": "179",
+      "text":
+        "Neuschwanstein Castle is a 19th-century Romanesque Revival palace on a rugged hill above the village of Hohenschwangau near Füssen in southwest Bavaria, Germany. The palace was commissioned by Ludwig II of Bavaria as a retreat and in honour of Richard Wagner.Ludwig paid for the palace out of his personal fortune and by means of extensive borrowing, rather than Bavarian public funds.The castle was intended as a home for the king, until he died in 1886. It was open to the public shortly after his death. Since then more than 61 million people have visited Neuschwanstein Castle. More than 1.3 million people visit annually, with as many as 6,000 per day in the summer"
+    },
+    {
+      "id": 2,
+      "title": "Eltz Castle",
+      "author": "Todd Gardner",
+      "uri":
+        "https://images.unsplash.com/photo-1515356619894-b89131037e3d?ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80",
+      "price": "139",
+      "text":
+        "Eltz Castle is a medieval castle nestled in the hills above the Moselle River between Koblenz and Trier, Germany. It is still owned by a branch of the same family (the Eltz family) that lived there in the 12th century, 33 generations ago. Bürresheim Castle, Eltz Castle and Lissingen Castle are the only castles on the left bank of the Rhine in Rhineland-Palatinate which have never been destroyed."
+    },
+    {
+      "id": 3,
+      "title": "Eilean Donan Castle",
+      "author": "Grace Zhu",
+      "uri":
+        "https://images.unsplash.com/photo-1508724735996-b41f69dfe2a9?ixlib=rb-1.2.1&auto=format&fit=crop&w=1456&q=80",
+      "price": "299",
+      "text":
+        "Eilean Donan Castle is one of the most recognised castles in Scotland, and probably appears on more shortbread tins and calendars than any other. It is, without doubt, a Scottish icon and certainly one of the most popular visitor attractions in the Highlands. When you first set eyes on it, it is easy to understand why so many people flock to its stout doors year after year. Strategically located on its own little island, overlooking the Isle of Skye, at the point where three great sea-lochs meet, and surrounded by the majestic splendour of the forested mountains of Kintail, Eilean Donan’s setting is truly breath-taking."
+    },
+    {
+      "id": 4,
+      "title": "Vaduz Castle",
+      "author": "Henrique Ferreira",
+      "uri":
+        "https://images.unsplash.com/photo-1512424113276-fa9f6a112384?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjExMjU4fQ&auto=format&fit=crop&w=1350&q=80",
+      "price": "199",
+      "text":
+        "Vaduz Castle is the palace and official residence of the Prince of Liechtenstein. The castle gave its name to the town of Vaduz, the capital of Liechtenstein, which it overlooks from an adjacent hilltop. The former owners, who were presumably also the builders, were the counts of Werdenberg-Sargans. The bergfried (the keep, built in the 12th century) and parts of the eastern side are the oldest. The tower stands on a piece of ground that is 12 by 13 metres (39 by 43 feet) in area. At the ground floor, the tower walls have a thickness of up to 4 metres (13 feet). The original entrance lay at the courtyard side at a height of 11 metres (36 feet). The chapel of St. Anna was presumably built in the Middle Ages as well. The main altar is late-gothic. In the Swabian War of 1499, the castle was burned by the Swiss Confederacy. The western side was expanded by Count Kaspar von Hohenems (1613–1640). The Princely Family of Liechtenstein acquired Vaduz Castle in 1712 when it purchased the countship of Vaduz. At this time, Charles VI, Holy Roman Emperor, combined the countship with the Lordship of Schellenberg, purchased by the Liechtensteins in 1699, to form the present Principality of Liechtenstein."
+    },
+    {
+      "id": 5,
+      "title": "Château de Chambord",
+      "author": "Dorian Mongel",
+      "uri":
+        "https://images.unsplash.com/photo-1526816229784-65d5d54ac8bc?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80",
+      "price": "159",
+      "text":
+        "The Château de Chambord in Chambord, Loir-et-Cher, France, is one of the most recognisable châteaux in the world because of its very distinctive French Renaissance architecture which blends traditional French medieval forms with classical Renaissance structures. The building, which was never completed, was constructed by King Francis I of France. Chambord is the largest château in the Loire Valley; it was built to serve as a hunting lodge for Francis I, who maintained his royal residences at the Château de Blois and Amboise. The original design of the Château de Chambord is attributed, though with some doubt, to Domenico da Cortona; Leonardo da Vinci may also have been involved. Chambord was altered considerably during the twenty-eight years of its construction (1519–1547), during which it was overseen on-site by Pierre Nepveu. With the château nearing completion, Francis showed off his enormous symbol of wealth and power by hosting his old archrival, Emperor Charles V, at Chambord. In 1792, in the wake of the French Revolution, some of the furnishings were sold and timber removed. For a time the building was left abandoned, though in the 19th century some attempts were made at restoration. During the Second World War, art works from the collections of the Louvre and the Château de Compiègne were moved to the Château de Chambord. The château is now open to the public, receiving 700,000 visitors in 2007. Flooding in June 2016 damaged the grounds but not the château itself."
+    }
+  ]
